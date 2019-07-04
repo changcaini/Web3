@@ -1,0 +1,90 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1562247526687" stop="1562247557130">
+  <name>PO_V8.TestCases</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1562247526687" status="passed" stop="1562247545955">
+      <name>test_course.TestOperateCourse.test_exit_class_fail[data0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562247546915" status="passed" stop="1562247550842">
+      <name>test_course.TestOperateCourse.test_exit_class_success[data0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562247551492" status="passed" stop="1562247552154">
+      <name>test_course.TestOperateCourse.test_join_class_fail[data0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562247552679" status="passed" stop="1562247553371">
+      <name>test_course.TestOperateCourse.test_join_class_fail[data1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562247553383" status="passed" stop="1562247554377">
+      <name>test_course.TestOperateCourse.test_join_class_fail[data2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562247555396" status="passed" stop="1562247556002">
+      <name>test_course.TestOperateCourse.test_join_class_fail[data3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1562247556521" status="passed" stop="1562247557130">
+      <name>test_course.TestOperateCourse.test_join_class_success[data0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11276-MainThread"/>
+        <label name="host" value="ccn"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
