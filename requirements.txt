@@ -10,7 +10,7 @@ et-xmlfile==1.0.1
 idna==2.8
 importlib-metadata==0.17
 jdcal==1.4
-lxml==4.3.4
+lxml==4.9.1
 mock==3.0.4
 more-itertools==7.0.0
 namedlist==1.7
